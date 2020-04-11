@@ -1,7 +1,5 @@
 package com.codewithmosh;
 
-import java.sql.SQLOutput;
-
 public class AddingMethods {
     public static void main(String[] args) {
         String studentName = "Ferhan Khan";
@@ -64,7 +62,6 @@ public class AddingMethods {
        } else {
            grade = "D";
        }
-        System.out.println("Grade of " + studentName3 + " is " + grade);
-
+        System.out.println("Grade of " + studentName3 + " is " + grade)
     }
 }

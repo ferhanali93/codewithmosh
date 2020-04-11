@@ -23,8 +23,5 @@ public class Casting {
         String e = "1.1";
         double f = Double.parseDouble(e) + 2;
         System.out.println(f);
-
-
-
     }
 }

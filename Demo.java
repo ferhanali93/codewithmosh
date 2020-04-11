@@ -1,10 +1,7 @@
 package com.codewithmosh;
-
-
 import java.util.Arrays;
 
 public class Demo {
-
     public static void main(String[] args) {
         // Arrays and sorting of an Array
         int[] numbers = {2, 3, 5, 1, 4};
@@ -23,10 +20,5 @@ public class Demo {
         We use capital letter to name the variable.
         In our case we used 'PI' instead of 'pi' to represent the constant
          */
-
-
-
-
-
     }
 }

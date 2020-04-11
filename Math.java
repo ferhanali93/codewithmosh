@@ -36,6 +36,5 @@ public class Math {
 
          double random1 = java.lang.Math.round(java.lang.Math.random() * 100); // Here with used round method so it will give you random number between 0 and 100 but in round form.
         System.out.println(random1); // random used double numbers. wil give u random number between 0 and 100.
-
     }
 }

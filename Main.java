@@ -1,11 +1,8 @@
 package com.codewithmosh;
-
-
 import java.awt.*;
 import java.util.Date;
 
 public class Main {
-
     public static void main(String[] args) {
         byte myAge = 27;
         byte herAge = myAge;
@@ -24,7 +21,6 @@ public class Main {
 
         Date now = new Date(); // Here i am using Data from Date.Util class to print today's date.
         System.out.println("Today's Date: " + now);
-
 
        String message = "   Hello World  ";
         System.out.println(message.trim());
@@ -58,6 +54,5 @@ public class Main {
         System.out.println(mesg4);
         //It will create a tab_space between I and Miss and also Miss and you.
         // i.e I    miss    you
-
     }
 }

@@ -6,7 +6,6 @@ public class Tests {
         x += 5;
         System.out.println(x);
 
-
         /*
         Java Strings
          */
@@ -86,8 +85,6 @@ public class Tests {
                      } else {
                          System.out.println("3");
                      }
-
-
 
                  }
              }

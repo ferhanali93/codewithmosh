@@ -18,7 +18,6 @@ public class Arrays {
             // It will print like [50, 20, 20, 15, 10]
         System.out.println(java.util.Arrays.toString(numbers));
 
-
         // String Array
         String[] strings = new String[5]; // We used String Arrays because it belongs to the same category.
         strings[0] = "Ferhan";
@@ -29,7 +28,6 @@ public class Arrays {
         System.out.println(java.util.Arrays.toString(strings));
         // It should print [Ferhan, Usman, Saad, Haifa, Chula]
 
-
         // Char Arrays
             Character[] characters = new Character[5];
             characters[0] = 'A';
@@ -38,6 +36,5 @@ public class Arrays {
             characters[3] = 'D';
             characters[4] = 'E';
             System.out.println(java.util.Arrays.toString(characters));
-
     }
 }

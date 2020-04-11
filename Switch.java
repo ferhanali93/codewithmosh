@@ -10,7 +10,6 @@ public class Switch {
                 System.out.println("Sunday");
                 break;
         }
-
                 // default ketword
             int beautiful = 4;
             switch (beautiful) {
@@ -23,9 +22,6 @@ public class Switch {
                 default:
                     System.out.println("Weekend");
             }
-
-
         }
-
     }
 

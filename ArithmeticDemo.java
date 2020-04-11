@@ -46,6 +46,7 @@ public class ArithmeticDemo {
         2. * and / (multiplication and division)
         3. + and - (Addition and subtraction)
          */
+
         int z = 10 + 3 *2;
         System.out.println(z);
         // ^^Here^^ it will multiply 3*2 first.

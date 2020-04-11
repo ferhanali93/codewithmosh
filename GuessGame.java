@@ -1,13 +1,10 @@
 package com.codewithmosh;
-
 import java.util.Scanner;
 
 public class GuessGame {
-
     public static void main(String[] args) {
 
         Scanner stdin = new Scanner(System.in);
-
         int min = 1;
         int maximum = 50;
         int range = maximum - min;
@@ -35,12 +32,8 @@ public class GuessGame {
                 guessAttempts++;
             }
         }
-
         System.out.println("Congrats! you guessed the right number which is "
                 + randomNum + ". It only took " + guessAttempts + " guesses!");
-
-
-
     }
 
 }
